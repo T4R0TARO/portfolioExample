@@ -73,11 +73,13 @@
     <div class="row align-items-center text-white">
       <!-- START THE CONTENT FOR THE INTRO -->
       <div class="col-md-6 intros">
+        <!-- TEXT -->
         <h1 class="display-2">
           <span class="display-2--intro">Hey!, I'm Josh</span>
           <span class="display-2--description lh-base">this is a multi-purpose responsive layout created with bootstrap v5.(here your can place your description text)   
           </span>
         </h1>
+        <!-- BUTTON -->
         <button type="button" class="rounded-pill btn-rounded">Get in Touch
           <span>
             <i class="fas fa-arrow-right"></i>
